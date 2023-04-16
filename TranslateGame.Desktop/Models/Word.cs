@@ -10,6 +10,5 @@ namespace TranslateGame.Desktop.Models
         public string WordValue { get; set; } = String.Empty;
 
         public TestLevel Level { get; set; }
-
     }
 }
