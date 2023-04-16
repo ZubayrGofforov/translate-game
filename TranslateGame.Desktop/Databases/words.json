@@ -1,0 +1,517 @@
+[
+  {
+    "WordName": "House",
+    "WordValue": "uy",
+    "Level": 0
+  },
+  {
+    "WordName": "Job",
+    "WordValue": "kasb",
+    "Level": 0
+  },
+  {
+    "WordName": "Business",
+    "WordValue": "biznes",
+    "Level": 0
+  },
+  {
+    "WordName": "Food",
+    "WordValue": "ovqat",
+    "Level": 0
+  },
+  {
+    "WordName": "Restaurant",
+    "WordValue": "restarant",
+    "Level": 0
+  },
+  {
+    "WordName": "Telephone",
+    "WordValue": "telefon",
+    "Level": 0
+  },
+  {
+    "WordName": "Address",
+    "WordValue": "manzil",
+    "Level": 0
+  },
+  {
+    "WordName": "Money",
+    "WordValue": "pul",
+    "Level": 0
+  },
+  {
+    "WordName": "Friend",
+    "WordValue": "do'st",
+    "Level": 0
+  },
+  {
+    "WordName": "Love",
+    "WordValue": "sevgi",
+    "Level": 0
+  },
+  {
+    "WordName": "Talk",
+    "WordValue": "gapirish",
+    "Level": 0
+  },
+  {
+    "WordName": "Do",
+    "WordValue": "qilmoq",
+    "Level": 0
+  },
+  {
+    "WordName": "Go",
+    "WordValue": "bormoq",
+    "Level": 0
+  },
+  {
+    "WordName": "Make",
+    "WordValue": "qilmoq",
+    "Level": 0
+  },
+  {
+    "WordName": "Walk",
+    "WordValue": "yurmoq",
+    "Level": 0
+  },
+  {
+    "WordName": "Eat",
+    "WordValue": "yemoq",
+    "Level": 0
+  },
+  {
+    "WordName": "Drink",
+    "WordValue": "ichmoq",
+    "Level": 0
+  },
+  {
+    "WordName": "Work",
+    "WordValue": "ish",
+    "Level": 0
+  },
+  {
+    "WordName": "Sleep",
+    "WordValue": "uxlamoq",
+    "Level": 0
+  },
+  {
+    "WordName": "Feel",
+    "WordValue": "his qilmoq",
+    "Level": 0
+  },
+  {
+    "WordName": "Happy",
+    "WordValue": "baxtli",
+    "Level": 0
+  },
+  {
+    "WordName": "Sad",
+    "WordValue": "qayg'uli",
+    "Level": 0
+  },
+  {
+    "WordName": "Angry",
+    "WordValue": "badjahl",
+    "Level": 0
+  },
+  {
+    "WordName": "Busy",
+    "WordValue": "band",
+    "Level": 0
+  },
+  {
+    "WordName": "Bored",
+    "WordValue": "Bored",
+    "Level": 0
+  },
+  {
+    "WordName": "Annoyed",
+    "WordValue": "g'azablangan",
+    "Level": 0
+  },
+  {
+    "WordName": "Pleased",
+    "WordValue": "mamnun",
+    "Level": 0
+  },
+  {
+    "WordName": "Excited",
+    "WordValue": "hayajonlangan",
+    "Level": 0
+  },
+  {
+    "WordName": "Lonely",
+    "WordValue": "yolg'iz",
+    "Level": 0
+  },
+  {
+    "WordName": "Tired",
+    "WordValue": "charchagan",
+    "Level": 0
+  },
+  {
+    "WordName": "To abolish",
+    "WordValue": "bekor qilmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To approve",
+    "WordValue": "ma'qullamoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To boast",
+    "WordValue": "maqtanmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To contribute",
+    "WordValue": "hissa qo'shmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To deliver",
+    "WordValue": "yetkazib bermoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To descend",
+    "WordValue": "tushmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To distract",
+    "WordValue": " chalg'itmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To torture",
+    "WordValue": "qiynamoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To confuse",
+    "WordValue": "chalkashtirmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To escape",
+    "WordValue": "qochmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To delegate",
+    "WordValue": "vakil qilib yubormoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To employ",
+    "WordValue": "ishlatmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To catch",
+    "WordValue": "tutmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To foster",
+    "WordValue": "tarbiyalamoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To boost",
+    "WordValue": "reklama qilmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To rank",
+    "WordValue": " joy egallamoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To reserve",
+    "WordValue": "g'amlamoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To regard",
+    "WordValue": "e'tiborga olmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To unify",
+    "WordValue": "birlashtirmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To digitalize",
+    "WordValue": "raqamlashtirmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To navigate",
+    "WordValue": "boshqarmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To extend",
+    "WordValue": "cho'zmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To invent",
+    "WordValue": "ixtiro qilmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To abridge",
+    "WordValue": "qisqartmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To neglect",
+    "WordValue": "mensimay qaramoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To renew",
+    "WordValue": "yangilamoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To absorb",
+    "WordValue": "shimmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To correct",
+    "WordValue": "to'g'irlamoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To define",
+    "WordValue": "aniqlamoq",
+    "Level": 1
+  },
+  {
+    "WordName": "To design",
+    "WordValue": "reja tuzmoq",
+    "Level": 1
+  },
+  {
+    "WordName": "Abject",
+    "WordValue": "Abject",
+    "Level": 2
+  },
+  {
+    "WordName": "Alias",
+    "WordValue": "taxallus",
+    "Level": 2
+  },
+  {
+    "WordName": "Anathema",
+    "WordValue": "qarg'ish",
+    "Level": 2
+  },
+  {
+    "WordName": "Antarctic",
+    "WordValue": "antarktida",
+    "Level": 2
+  },
+  {
+    "WordName": "Camaraderie",
+    "WordValue": "do'stlik",
+    "Level": 2
+  },
+  {
+    "WordName": "Cavalry",
+    "WordValue": "otliqlar",
+    "Level": 2
+  },
+  {
+    "WordName": "Colonel",
+    "WordValue": "polkovnik",
+    "Level": 2
+  },
+  {
+    "WordName": "Comfortable",
+    "WordValue": "qulay",
+    "Level": 2
+  },
+  {
+    "WordName": "Deteriorate",
+    "WordValue": "yomonlashmoq",
+    "Level": 2
+  },
+  {
+    "WordName": "Draught",
+    "WordValue": "qoralamoq",
+    "Level": 2
+  },
+  {
+    "WordName": "Epitome",
+    "WordValue": "konspekt",
+    "Level": 2
+  },
+  {
+    "WordName": "Espouse",
+    "WordValue": "uylanmoq",
+    "Level": 2
+  },
+  {
+    "WordName": "Explicit",
+    "WordValue": "aniq",
+    "Level": 2
+  },
+  {
+    "WordName": "Exponentially",
+    "WordValue": "eksponensial",
+    "Level": 2
+  },
+  {
+    "WordName": "Ignominious",
+    "WordValue": "nopok",
+    "Level": 2
+  },
+  {
+    "WordName": "Mischievous",
+    "WordValue": "zararli",
+    "Level": 2
+  },
+  {
+    "WordName": "Otorhinolaryngologist",
+    "WordValue": "otorinolaringolog",
+    "Level": 2
+  },
+  {
+    "WordName": "Phlegmatic",
+    "WordValue": "beparvo",
+    "Level": 2
+  },
+  {
+    "WordName": "Phenomenon",
+    "WordValue": "hodisa",
+    "Level": 2
+  },
+  {
+    "WordName": "Puerile",
+    "WordValue": "bolalarga xos",
+    "Level": 2
+  },
+  {
+    "WordName": "Rural",
+    "WordValue": "qishloq",
+    "Level": 2
+  },
+  {
+    "WordName": "Sanguine",
+    "WordValue": "serharakat",
+    "Level": 2
+  },
+  {
+    "WordName": "Scissors",
+    "WordValue": "qaychi",
+    "Level": 2
+  },
+  {
+    "WordName": "Specific",
+    "WordValue": "maxsus",
+    "Level": 2
+  },
+  {
+    "WordName": "Squirrel",
+    "WordValue": "olmaxon",
+    "Level": 2
+  },
+  {
+    "WordName": "Staid",
+    "WordValue": "vazmin",
+    "Level": 2
+  },
+  {
+    "WordName": "Successful",
+    "WordValue": "muvaffaqiyatli",
+    "Level": 2
+  },
+  {
+    "WordName": "Surfeit",
+    "WordValue": "ortiqchalik",
+    "Level": 2
+  },
+  {
+    "WordName": "Truculent",
+    "WordValue": "yovuz",
+    "Level": 2
+  },
+  {
+    "WordName": "Zephyr",
+    "WordValue": "shabada",
+    "Level": 2
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Glasses",
+    "WordValue": "ko'zoynak",
+    "Level": 0
+  },
+  {
+    "WordName": "Mouse",
+    "WordValue": "sichqon",
+    "Level": 0
+  },
+  {
+    "WordName": "Bag",
+    "WordValue": "sumka",
+    "Level": 0
+  }
+]

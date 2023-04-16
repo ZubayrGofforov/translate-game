@@ -1,0 +1,90 @@
+[
+  {
+    "Id": "1b5d5f99-9150-4f53-9c8d-ac6da5ab0f6b",
+    "Name": "Abdulloh",
+    "Username": "Abdulloh",
+    "PasswordHash": "$2a$11$4yLS51Q8T7qmymy5Ct78q.EoWB96AMyuwZe6KoDHKNYO2EMy8PgoO",
+    "Salt": "b9152bb5-0920-47e9-bd85-3f709ea6f730",
+    "DateOfBirth": "03.10.2003"
+  },
+  {
+    "Id": "81732447-454b-4bc7-8a64-ac6134094681",
+    "Name": "Ro'zali",
+    "Username": "Nemo",
+    "PasswordHash": "$2a$11$COHJ2zStEipbC9DIuC4XDurndIWgYFvkfrII8hqV4WAogpFUwNrhq",
+    "Salt": "9f47b7fa-26ca-4f4b-9bdc-1fc148d116c0",
+    "DateOfBirth": "07.01.1999"
+  },
+  {
+    "Id": "2d43db12-d21c-4dc9-bbe7-2851041a9b27",
+    "Name": "Qahhorjon",
+    "Username": "qahhor2002",
+    "PasswordHash": "$2a$11$cx80Rla5oKEnKImnkdFSQ.uRyt0CyZ2hiNZlgSwYpYYPskIsXl4Ny",
+    "Salt": "09c9cb5a-9d0f-42b5-a664-8342fc676392",
+    "DateOfBirth": "08.02.2002"
+  },
+  {
+    "Id": "762a389b-df0c-469a-b811-aab2d83b6c2c",
+    "Name": "775",
+    "Username": "ytr",
+    "PasswordHash": "$2a$11$MhSS1wqQj55NFdS.w8kZGuwRxP/M4P8Ba3N.R8Q1YBeX8ZWg8Sfce",
+    "Salt": "5f5eeae2-4fc5-4469-9069-d6beeb69a2bb",
+    "DateOfBirth": "rtytry"
+  },
+  {
+    "Id": "250fabd0-17f6-4d9e-894b-a53c298e7b10",
+    "Name": "ada",
+    "Username": "da",
+    "PasswordHash": "$2a$11$X./ITfU0ZHrySm./2tArPedqoxGoTBiKASWvyO/qzENgvV3miNYoW",
+    "Salt": "148ed6d3-f34b-43ae-a93c-823f64201106",
+    "DateOfBirth": "ad"
+  },
+  {
+    "Id": "35d957c7-d433-4607-8dae-6a7b7de4a71c",
+    "Name": "Xurshid",
+    "Username": "xurshid",
+    "PasswordHash": "$2a$11$B4WBsdgzRsPSYcBZCOPWnuU.5ixI6wlKxpuz/3YN4xZ7y7eAA53gi",
+    "Salt": "29d177b1-b7df-4461-bdb1-19dc5f1aa98a",
+    "DateOfBirth": "19.05.2004"
+  },
+  {
+    "Id": "6c958a09-333f-414b-9261-6d7b4edf242e",
+    "Name": "Nozim",
+    "Username": "nozim",
+    "PasswordHash": "$2a$11$nvUajOyn3SuzRFBgE2CpI..Z0TGbmi4u6H9pB4ToyIWA0.8H0C0V6",
+    "Salt": "dc75fa13-ff28-4ef4-a863-fbf2bfd0629e",
+    "DateOfBirth": "10.11.2000"
+  },
+  {
+    "Id": "6ada93f5-2542-4c92-9345-ebb2c783fc09",
+    "Name": "Xurshid",
+    "Username": "fazliddin",
+    "PasswordHash": "$2a$11$8p0q7XS1/naAL2oOXITvLOAhCLKTkrosb5fHiFIZm9/fRHMALW/Ae",
+    "Salt": "31fa53ac-c1ed-4049-9bee-3f4bf27f355e",
+    "DateOfBirth": "01.01.2002"
+  },
+  {
+    "Id": "e9663f71-0f2b-417a-8585-81e95eb678b1",
+    "Name": "a",
+    "Username": "a",
+    "PasswordHash": "$2a$11$Do/RuCr5MBKsAVPSZHSS5.dCw.48iIZUBgpNoFq0UDMf8SbU0vnny",
+    "Salt": "539b6418-8203-4322-83a1-91be6f741d87",
+    "DateOfBirth": "a"
+  },
+  {
+    "Id": "0b6cf195-0b8e-4dde-92ec-16056d401cb7",
+    "Name": "ss",
+    "Username": "sss",
+    "PasswordHash": "$2a$11$T5ItRMs1qpkyMGF3IqaUt.oFNvuWQFsMmtPBDP3SqGaqqJ2HIOPJO",
+    "Salt": "70b59a40-88bd-47a9-b9e3-5f2034c24a84",
+    "DateOfBirth": "2000-12-12"
+  },
+  {
+    "Id": "b06cfaa5-56d9-4657-a4dc-f230631afb66",
+    "Name": "Normadjon",
+    "Username": "normadjon",
+    "PasswordHash": "$2a$11$9rrJmwtiL7W9gb1PLLMucu9wpG1OoJeDaz3NpjkEdkQFH1YenaveO",
+    "Salt": "4a1a5ccb-078d-4554-a534-bb76a662abf0",
+    "DateOfBirth": "01.01.2003"
+  }
+]
