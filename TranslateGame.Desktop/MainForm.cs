@@ -26,7 +26,7 @@ namespace TranslateGame.Desktop
         }
 
         private async void GetTestCollection()
-        {   
+        {
             IWordRepository wordRepository = new WordRepository();
             words = await wordRepository.GetConfigurated(count, level);
 
@@ -41,7 +41,7 @@ namespace TranslateGame.Desktop
 
             translateBox.Clear();
             resultLabel.Text = $"correct anwers: {words.Count}/{correctAnswers}  current test: {currentTest}";
-            if(currentTest > words.Count - 1)
+            if (currentTest > words.Count - 1)
             {
                 MessageBox.Show($"Level: {level}\n\tTotal: {words.Count}\tCorrect: {correctAnswers}");
                 IResultRepository resultRepository = new ResultRepositroy();

@@ -12,7 +12,7 @@ namespace TranslateGame.Desktop.Repositories
     public class UserRepository : IUserRepository
     {
         private readonly string _dbPath = DbConstans.USERS_DB;
-        public  bool Create(User obj)
+        public bool Create(User obj)
         {
             try
             {

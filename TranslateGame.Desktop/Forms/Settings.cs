@@ -34,7 +34,7 @@ namespace TranslateGame.Desktop.Forms
             userSettings.ShowDialog();
             this.Show();
         }
-        
+
         public void SetUserId(Guid userId)
         {
             this.userId = userId;
