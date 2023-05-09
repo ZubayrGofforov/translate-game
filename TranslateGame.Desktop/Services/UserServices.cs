@@ -17,6 +17,7 @@ namespace TranslateGame.Desktop.Services
             this._userRepository = new UserRepository();
         }
 
+        // login
         public async Task<User> LoginAsync(string username, string password)
         {
             var user = await Task.Run(() => _userRepository.GetByUsername(username));
@@ -29,6 +30,7 @@ namespace TranslateGame.Desktop.Services
             }
         }
 
+        // register
         public async Task<bool> RegisterAsync(UserCreateViewModel userCreateViewModel)
         {
             try
